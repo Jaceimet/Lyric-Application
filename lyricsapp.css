@@ -1,0 +1,9 @@
+#viewPane {
+	-fx-background-color: blue;
+}
+
+#viewPane Label {
+	-fx-font: bold 20pt Arial;
+	-fx-text-fill: cyan;
+	-fx-alignment: center;
+}
